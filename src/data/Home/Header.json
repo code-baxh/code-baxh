@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Solving Your Tech Recruitment Problems Efficiently." },
+    "content": "Our specialty includes SOC/SIEM implementation & management, Identity & Access Management, Infrastructure and network design.",
+    "image": "/images/slide/img01.jpg"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Advanced Technology" },
+    "content": "We also, cover Advanced Technology or Next-Gen Tech (Open Source, Cloud Technology, Linux, Blockchain, AI, The Internet of Things, Big Data and many more).",
+    "image": "/images/slide/img03.jpg"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Sales and Go-To-Market" },
+    "content": "We help you with your go-to-market strategy by sourcing the best tech sales specialists and Business Development Executives for your technology to complete your project cycle.",
+    "image": "/images/slide/img04.jpg"
+  },
+  {
+    "id": 4,
+    "title": { "first": "Adding Value To Your Search." },
+    "content": "Our specialty includes Penetration Testing & Application Security, Threat management & vulnerability assessment, Third Party Assurance.",
+    "image": "/images/slide/img02.jpg"
+  }
+]

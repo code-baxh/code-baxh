@@ -1,0 +1,28 @@
+{
+  "title": "Solution for Tech Recruitment",
+  "text": "We help you find top talents in tech!",
+  "desc": "Our strategy uses a group of specialised resources to offer a thorough understanding of the market, from real-time talent flows to the knowledge of current laws and market activity. We can assist you in long-term personnel development and hiring. We put in a lot of effort to give our clients the best opportunities on the market and the most creative talent solutions.",
+  "skills": [
+    {
+      "title": "Cyber",
+      "value": 90
+    },
+    {
+      "title": "Cyber",
+      "value": 75
+    }
+  ],
+
+
+  "title2": "Contractor Package",
+  "desc2": "A thorough compliance and payment framework is part of our contractor package. We've got you covered legally! Using our contractor package, your business may quickly and securely hire any contingent worker, regardless of source or classification. We have a team that supports and onboards contractors. Payroll and payment procedures are straightforward:",
+  "list1": "Contractor payments and agent of record – We offer a contractor payment or agent of record service to real, incorporated, self-employed people.",
+  "list2": "Independent contractor compliance – for employees who assert they are independent contractors, our compliance service will verify their assertion, gather the pertinent supporting files and documentation, and offer ongoing tracking and reporting.",
+  "features": [
+    {
+      "img": "images/img01.jpg",
+      "title": "",
+      "desc": ""
+    }
+  ]
+}

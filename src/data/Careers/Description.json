@@ -1,0 +1,19 @@
+{
+    "job": [
+      {
+        "id": 1,
+        "title": "Our Mission",
+        "details": "Our mission is to add value to your search. For our clients, we know how tedious it can be to find specific talents in the industry. Just think of us as the home of the niche talents! For candidates, we pride ourselves on helping you not only to identify the right opportunities in the industry but also, to help you find ways to develop your skills to be best positioned in the market."
+      },
+      {
+        "id": 2,
+        "title": "Our Goals",
+        "details": "Our goal is to become the largest hub for global recruitment solutions for our clients and candidates."
+      },
+      {
+        "id": 3,
+        "title": "Why Us?",
+        "details": "We help you add value to your search. We tailor our services specifically to your needs. We pay attention to you and no problem is too big for us to solve!"
+      }
+    ]     
+  }
