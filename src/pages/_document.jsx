@@ -13,8 +13,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta name="keywords" content="Touchque" />
-          <meta name="description" content="Touchque Tech Recruitment Agency" />
+          <meta name="keywords" content="Code Baxh" />
+          <meta name="description" content="Code Baxh Tech Recruitment Agency" />
           <meta name="author" content="" />
 
           <link rel="shortcut icon" href="/assets/img/favicon.ico" />

@@ -105,7 +105,7 @@ const Footer = ({ classText }) => {
               <div className="col-lg-4">
                   <div className="item">
                       <div className="logo">
-                          <h4>Touchque Ltd</h4>
+                          <h4>Code Baxh</h4>
                       </div>
                       
                       
