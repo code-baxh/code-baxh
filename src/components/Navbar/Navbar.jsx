@@ -30,7 +30,7 @@ const Navbar = ({ navbarRef, logoRef }) => {
                 <img src="/images/logo.png" alt="logo" ref={logoRef} />
               </a>
             </Link>
-            <h4 className="ml-1 mt-4 logo-text"><strong>Touchque Ltd</strong></h4>
+            <h5 className="ml-1 mt-2 logo-text "><span>Code Baxh</span></h5>
 
             
             <button

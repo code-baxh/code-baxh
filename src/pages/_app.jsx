@@ -32,7 +32,7 @@ function MyApp({ Component, pageProps }) {
 
 
       <Head>
-        <title>Touchque</title>
+        <title>Code Baxh</title>
         <link rel="icon" type="image/x-icon" href="/images/logo.ico"></link>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <script
