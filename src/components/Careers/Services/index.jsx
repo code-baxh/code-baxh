@@ -26,7 +26,7 @@ const Intro = () => {
 
     <ul>
     {
-      ListingData.job.map((item, index) => (
+      []?.map((item, index) => (
         <li className="wow fadeInUp" data-wow-delay={`${0.2 * (index + 1)}s`} key={item.id}>
                     <div href="career-single.html" class="card p-0 mb-3 border-0 shadow-sm mt-4">
                     <Link href={"/description/description" + parseInt(index + 1)} state={{ from: "occupation" }}>

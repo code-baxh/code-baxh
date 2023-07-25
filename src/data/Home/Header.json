@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": { "first": "Solving Your Tech Recruitment Problems Efficiently." },
-    "content": "Our specialty includes SOC/SIEM implementation & management, Identity & Access Management, Infrastructure and network design.",
+    "title": { "first": "Code Baxh -  Connecting you to the Future, anytime, anywhere Empowering your digital world" },
+    "content": "Our specialty includes Web/Mobile implementation & management, Identity & Access Management, Infrastructure and network design.",
     "image": "/images/slide/img01.jpg"
   },
   {
     "id": 2,
-    "title": { "first": "Advanced Technology" },
-    "content": "We also, cover Advanced Technology or Next-Gen Tech (Open Source, Cloud Technology, Linux, Blockchain, AI, The Internet of Things, Big Data and many more).",
+    "title": { "first": "Leading the way in technology innovation" },
+    "content": "We also, cover Advanced Technology or Next-Gen Tech (Open Source, Cloud Technology, Web development, Mobile Development, Linux, Blockchain, AI,  and many more).",
     "image": "/images/slide/img03.jpg"
   },
   {
     "id": 3,
-    "title": { "first": "Sales and Go-To-Market" },
-    "content": "We help you with your go-to-market strategy by sourcing the best tech sales specialists and Business Development Executives for your technology to complete your project cycle.",
+    "title": { "first": "Innovative solutions for a smarter future" },
+    "content": "Experience innovative solutions for a smarter future. Embrace cutting-edge technologies, AI, IoT, and sustainable energy, driving us towards a more connected, efficient, and sustainable world. Shape a brighter tomorrow with us.",
     "image": "/images/slide/img04.jpg"
   },
   {
     "id": 4,
-    "title": { "first": "Adding Value To Your Search." },
-    "content": "Our specialty includes Penetration Testing & Application Security, Threat management & vulnerability assessment, Third Party Assurance.",
+    "title": { "first": "Technology for the modern world" },
+    "content": "Discover modern world technology with our innovative solutions. From advanced software to AI-driven applications, we empower success in today's digital landscape. Embrace the future with us.",
     "image": "/images/slide/img02.jpg"
   }
 ]

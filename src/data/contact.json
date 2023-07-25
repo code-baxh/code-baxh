@@ -1,13 +1,13 @@
 {
-  "email": "info@touchque.com",
-  "phone": "+447737070264",
+  "email": "bilal.khursheed617@gmail.com",
+  "phone": "+923435527709",
   "address": {
-    "street": "128 City Road, EC1V 2NX",
-    "city": "London",
-    "country": "United Kingdom"
+    "street": "306, Ghouri Town",
+    "city": "Islamabad",
+    "country": "Pakistan"
   },
   "map": {
-    "lat": 51.526610,
-    "lng": -0.088220
+    "lat": 33.613074946423396,
+    "lng": 73.13071172875671
   }
 }

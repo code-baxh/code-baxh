@@ -113,7 +113,7 @@ const Footer = ({ classText }) => {
                           <div className="social">
                           <span className="pr-3"><strong> Connect With us</strong></span>
              
-                          <Link href="https://www.linkedin.com/company/touchque-ltd/">
+                          <Link href="https://www.linkedin.com/company/code-baxh/">
                            <a><i className="fab fa-linkedin-in"></i></a>
                           </Link>
                           </div>
