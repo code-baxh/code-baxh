@@ -12,7 +12,7 @@ export default async (req, res) => {
     `;
 
   await mail.send({
-    to: "info@touchque.com",
+    to: "code.baxh@gmail.com",
     from: "contactform@touchque.com",
     subject: "New Contact form message",
     text: message,
