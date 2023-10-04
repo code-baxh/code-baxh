@@ -65,14 +65,14 @@ const Footer = ({ classText }) => {
                             <span className="icon pe-7s-mail"></span>
                             <div className="cont">
                                 <h6>Email Us</h6>
-                                <p>{ appData.email }</p>
+                                <a href={`mailto:${appData.email}`}>{ appData.email }</a>
                             </div>
                         </li>
                         <li>
                             <span className="icon pe-7s-call"></span>
                             <div className="cont">
                                 <h6>Contact Us</h6>
-                                <p>{ appData.phone }</p>
+                                <a href="tel:+923435527709">{ appData.phone }</a>
                             </div>
                         </li>
                       </ul>
