@@ -30,7 +30,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>CodeBaxh - Your Source for Coding Resources</title>
         <meta name="description" content="CodeBaxh is your one-stop destination for coding tutorials, programming resources, and software development tips. Learn to code, improve your skills, and stay up-to-date with the latest tech trends." />
