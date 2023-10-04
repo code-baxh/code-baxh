@@ -6,6 +6,7 @@ import Minimal from "../../components/About/Minimal";
 import Services from "../../components/About/Services";
 import CallAction from "../../components/About/CallAction";
 import Blogs from "../../components/About/Blogs";
+import Head from "next/head";
 
 const Index = () => {
   useEffect(() => {
