@@ -29,19 +29,40 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
-
-
       <Head>
-        <title>Code Baxh</title>
-        <link rel="icon" type="image/x-icon" href="/images/logo.ico"></link>
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CodeBaxh - Your Source for Coding Resources</title>
+        <meta name="description" content="CodeBaxh is your one-stop destination for coding tutorials, programming resources, and software development tips. Learn to code, improve your skills, and stay up-to-date with the latest tech trends." />
+        <meta name="keywords" content="code, coding tutorials, programming resources, software development, learn to code, tech trends" />
+        <meta name="author" content="Your Name or Your Company" />
+        {/* <meta name="robots" content="index, follow" /> */}
+        <link rel="canonical" href="https://www.codebaxh.com/" />
+
+        <meta property="og:title" content="CodeBaxh - Your Source for Coding Resources" />
+        <meta property="og:description" content="CodeBaxh is your one-stop destination for coding tutorials, programming resources, and software development tips. Learn to code, improve your skills, and stay up-to-date with the latest tech trends." />
+        <meta property="og:image" content="https://www.codebaxh.com/images/logo.png" />
+        <meta property="og:url" content="https://www.codebaxh.com/" />
+        <meta property="og:type" content="website" />
+
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="CodeBaxh - Your Source for Coding Resources" />
+        <meta name="twitter:description" content="CodeBaxh is your one-stop destination for coding tutorials, programming resources, and software development tips. Learn to code, improve your skills, and stay up-to-date with the latest tech trends." />
+        <meta name="twitter:image" content="https://www.codebaxh.com/images/logo.png" />
+        <meta name="twitter:url" content="https://www.codebaxh.com/" />
+
+        <link rel="icon" type="image/x-icon" href="/images/logo.ico" />
+
+        {/* <link rel="icon" type="image/x-icon" href="/images/logo.ico"></link> */}
+        {/* <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> */}
         <script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
-          />
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
+          async
+          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
                     window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
@@ -49,8 +70,8 @@ function MyApp({ Component, pageProps }) {
                         page_path: window.location.pathname,
                     });
                     `,
-            }}
-          />
+          }}
+        />
       </Head>
 
 
